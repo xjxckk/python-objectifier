@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name = 'python-objectifier',
     packages = ['objectifier'],
-    version = '1.6',
+    version = '2026.1.1',
     description = 'objectifier',
     url = 'https://github.com/xjxckk/python-objectifier/',
     download_url = 'https://github.com/xjxckk/python-objectifier/archive/refs/tags/v0.1.tar.gz',
